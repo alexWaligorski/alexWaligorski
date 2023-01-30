@@ -2,10 +2,13 @@
 # Hey!
 
 I am Alex. For years I have been encouraging kids to take up programming by running festivals and workshops for creative coding. 
-Now **it's my turn** to be brave!
+**Now it's my turn to be brave!**
 
 - ✏️ I am currently student at a web development bootcamp
 - 💬 Ask me about art, dog behavior and mushrooms
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexWaligorski)](https://git.io/streak-stats)
+
 
 ## I am passionate about
 
