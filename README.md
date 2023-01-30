@@ -3,12 +3,20 @@
 I am Alex. For years I have been encouraging kids to take up programming by running festivals and workshops for creative coding. 
 Now **it's my turn** to be brave!
 
-I am passionate about:
+## I am passionate about
 
 - 🍜 food
 - ⛰️ bouldering and climbing
 - 🐶 dogs
 - ✈️ travelling
+
+## Languages I'm learning
+
+| language | proficiency |
+| ---      | --- |
+|Arabic    | ⭐ ⭐ |
+|Farsi     | ⭐ |
+|Japanese | ⭐ ⭐ |
 
 ## My next travel destination
 
