@@ -1,33 +1,31 @@
 
 # Hey!
 
-I am Alex. For years I have been encouraging kids to take up programming by running festivals and workshops for creative coding. 
+I am Alex. For years I have been encouraging kids to take up programming by running [festivals](https://nodeforum.org/) and [workshops](https://www.digitale-welten.org/) for creative coding. 
 **Now it's my turn to be brave!**
 
 - ✏️ I am currently student at a web development bootcamp
-- 💬 Ask me about art, dog behavior and mushrooms
+- 💬 Ask me about free online coding courses, the visual programming language VVV and digital art
 
+## My techstack (...in the making)
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alexWaligorski&theme=tokyonight_duo)](https://git.io/streak-stats)
-
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* MongoDB
 
 ## I am passionate about
 
 - 🍜 food
+- 🍄 mushroom foraging
 - ⛰️ bouldering and climbing
 - 🐶 dogs
 - ✈️ travelling
 
-## Languages I'm learning
 
-| language | proficiency |
-| ---      | --- |
-|Arabic    | ⭐ ⭐ |
-|Farsi     | ⭐ |
-|Japanese | ⭐ ⭐ |
+## ...and some stats for those who like diagrams
 
-## My next travel destination
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexWaligorski&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-![next travel destination](https://reisenexclusiv.com/wp-content/uploads/2016/08/Taiwan-Skyline-Foto-Henry-Tsui.jpg)
