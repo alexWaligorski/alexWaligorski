@@ -7,7 +7,7 @@ For years I have been encouraging kids and adults to take up programming by runn
 
  ✏️ I am currently trainee at a web development bootcamp
  
- 💬 Ask me about free online coding courses, digital art and dog behavior.
+ 💬 Ask me about free online coding courses, digital art and dog behavior
 
 ## My techstack (...in the making)
 
