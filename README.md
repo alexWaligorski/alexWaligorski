@@ -1,11 +1,13 @@
 
-# Hey!
+# Hey, I'm Alex!
 
-I am Alex. For years I have been encouraging kids to take up programming by running [festivals](https://nodeforum.org/) and [workshops](https://www.digitale-welten.org/) for creative coding. 
+As an art historian and curator I have analyzed, exhibited, and marveled at digital art pieces – always wondering how the code behind them worked.
+For years I have been encouraging kids and adults to take up programming by running [festivals](https://nodeforum.org/) and [workshops](https://www.digitale-welten.org/) for creative coding. 
 **Now it's my turn to be brave!**
 
-- ✏️ I am currently student at a web development bootcamp
-- 💬 Ask me about free online coding courses, the visual programming language VVV and digital art
+ ✏️ I am currently trainee at a web development bootcamp
+ 
+ 💬 Ask me about free online coding courses, digital art and dog behavior.
 
 ## My techstack (...in the making)
 
@@ -14,6 +16,7 @@ I am Alex. For years I have been encouraging kids to take up programming by runn
 * JavaScript
 * React
 * Next.js
+* Node.js
 * MongoDB
 
 ## I am passionate about
