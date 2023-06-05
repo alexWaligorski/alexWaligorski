@@ -5,8 +5,8 @@ As an art historian and curator I have analyzed, exhibited, and marveled at digi
 For years I have been encouraging kids and adults to take up programming by running [festivals](https://nodeforum.org/) and [workshops](https://www.digitale-welten.org/) for creative coding. 
 **Now it's my turn to be brave!**
 
- ✏️ I am currently trainee at a web development bootcamp
- 
+ ✏️ I have currently graduated from Neue Fische Web Development Bootcamp
+ 🙋‍♀️ ...and now I am ready to start on my new path as Junior Web Developer
  💬 Ask me about free online coding courses, digital art and dog behavior
 
 ## My techstack (...in the making)
