@@ -6,7 +6,9 @@ For years I have been encouraging kids and adults to take up programming by runn
 **Now it's my turn to be brave!**
 
  ✏️ I have currently graduated from Neue Fische Web Development Bootcamp
+ 
  🙋‍♀️ ...and now I am ready to start on my new path as Junior Web Developer
+ 
  💬 Ask me about free online coding courses, digital art and dog behavior
 
 ## My techstack (...in the making)
