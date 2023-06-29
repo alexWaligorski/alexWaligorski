@@ -20,6 +20,7 @@ For years I have been encouraging kids and adults to take up programming by runn
 * Next.js
 * Node.js
 * MongoDB
+* Reduc Toolkit
 
 ## I am passionate about
 
