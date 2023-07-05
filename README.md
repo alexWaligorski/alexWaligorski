@@ -22,6 +22,11 @@ For years I have been encouraging kids and adults to take up programming by runn
 * MongoDB
 * Redux Toolkit
 
+## I am currently learning
+
+* typescript
+* MUI
+
 ## I am passionate about
 
 - 🍜 food
