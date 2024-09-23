@@ -18,14 +18,7 @@ For years I have been encouraging kids and adults to take up programming by runn
 * JavaScript
 * React
 * Next.js
-* Node.js
-* MongoDB
-* Redux Toolkit
-
-## I am currently learning
-
-* typescript
-* MUI
+* TypeScript
 
 ## I am passionate about
 
